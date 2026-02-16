@@ -1,5 +1,5 @@
 {
-  "name": "playcanvas-multiplayer-server",
+  "name": "playcanvas-3d-arena-server",
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
